@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Sinha!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India 🇨🇦</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="300">
 
 <br/>
 
