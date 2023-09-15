@@ -33,7 +33,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Papay98/Papay98/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
